@@ -2,3 +2,7 @@
 
 Console.WriteLine("Add this");
 
+
+RandomClass rasmus = new RandomClass("Rasmus", "Mand");
+
+Console.WriteLine($"{rasmus.Name}");
